@@ -3,4 +3,4 @@
 ## DAY 1
 - Numpy
 - Pytorch
-- Visualization
+- Data Normalization & Visualization
