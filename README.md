@@ -7,11 +7,11 @@
 
 ## DAY 2
 - NN
-- OR / XOR / FashionMNist
+- OR / XOR / FashionMNIST
 - Optimizer
 - Regularization techniques
 
 ## DAY 3
 - Convolution
 - CNN
-- Cifar-10
+- MNIST / FashioinMNIST / Cifar-10
